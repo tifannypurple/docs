@@ -2,17 +2,17 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "Documentação",
   "logo": {
-    "dark": "/logo/logo-white.png",
-    "light": "/logo/logo-dark.png"
+    "dark": "/logo/logo-dark.png",
+    "light": "/logo/logo-white.png"
   },
   "favicon": "/logo/faviconnk1.ico",
   "colors": {
     "primary": "#7251ab",
-    "light": "#5a3e9a",
+    "light": "#281844",
     "dark": "#7251ab",
     "anchors": {
       "from": "#7251ab",
-      "to": "#5a3e9a"
+      "to": "#281844"
     }
   },
   "topbarLinks": [
