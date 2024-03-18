@@ -25,12 +25,6 @@
     "name": "Ára do Cliente",
     "url": "https://nk1.gg"
   },
-  "tabs": [
-    {
-      "name": "API Reference",
-      "url": "api-reference"
-    }
-  ],
   "navigation": [
     {
       "group": "Começando",
