@@ -7,12 +7,12 @@
   },
   "favicon": "/favicon.svg",
   "colors": {
-    "primary": "##a94fd1",
-    "light": "#281844",
-    "dark": "##a94fd1",
+    "primary": "#a94fd1",
+    "light": "#65449d",
+    "dark": "#a94fd1",
     "anchors": {
-      "from": "##a94fd1",
-      "to": "#281844"
+      "from": "#a94fd1",
+      "to": "#65449d"
     }
   },
   "topbarLinks": [
@@ -33,7 +33,7 @@
   ],
   "navigation": [
     {
-      "group": "Get Started",
+      "group": "Comçando",
       "pages": [
         "introduction",
         "quickstart",
