@@ -27,15 +27,13 @@
   },
   "navigation": [
     {
-      "group": "Começando",
+      "group": "Bem-Vindo",
       "pages": [
-        "introduction",
-        "quickstart",
-        "development"
+        "introduction"
       ]
     },
     {
-      "group": "Essentials",
+      "group": "Tutoriais",
       "pages": [
         "essentials/markdown",
         "essentials/code",
