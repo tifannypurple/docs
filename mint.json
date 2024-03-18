@@ -7,12 +7,12 @@
   },
   "favicon": "/logo/faviconnk1.png",
   "colors": {
-    "primary": "#7251ab",
-    "light": "#281844",
-    "dark": "#7251ab",
+    "primary": "#c3a5fa",
+    "light": "#c3a5fa",
+    "dark": "#c3a5fa",
     "anchors": {
-      "from": "#7251ab",
-      "to": "#281844"
+      "from": "#c3a5fa",
+      "to": "#c3a5fa"
     }
   },
   "topbarLinks": [
