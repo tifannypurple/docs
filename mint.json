@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Documenbtação",
+  "name": "Documentação",
   "logo": {
     "dark": "/logo/dark.svg",
     "light": "/logo/light.svg"
@@ -8,11 +8,11 @@
   "favicon": "/favicon.svg",
   "colors": {
     "primary": "#160e25",
-    "light": "#07C983",
+    "light": "#281844",
     "dark": "#160e25",
     "anchors": {
       "from": "#160e25",
-      "to": "#07C983"
+      "to": "#281844"
     }
   },
   "topbarLinks": [
