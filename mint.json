@@ -23,7 +23,7 @@
   ],
   "topbarCtaButton": {
     "name": "Ára do Cliente",
-    "url": "https://nk1.gg/index.php?rp=/login"
+    "url": "https://nk1.gg"
   },
   "tabs": [
     {
@@ -50,7 +50,7 @@
   ],
   "navigation": [
     {
-      "group": "Get Started",
+      "group": "Começando",
       "pages": [
         "introduction",
         "quickstart",
